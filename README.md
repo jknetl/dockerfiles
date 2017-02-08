@@ -1,3 +1,3 @@
 # Dockerfiles
 
-This repository of various dockerfiles.
+This repository contains various dockerfiles.
